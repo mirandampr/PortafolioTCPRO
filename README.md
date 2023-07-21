@@ -6,23 +6,23 @@ El propósito de la página web es mostrr el portafolio de los proyectos además
 
 ### Capturas de pantalla:
 
-Primera parte de la página web:
+#### Primera parte de la página web:
 
 ![Primera parte de la página web](imagenes/pantallaprincipal.png)
 
-Presentación:
+#### Presentación:
 
 ![Primera parte de la página web](imagenes/presentación.png)
 
-Experiencia:
+#### Experiencia:
 
 ![Experiencia](imagenes/experiencia.png)
 
-Proyectos:
+#### Proyectos:
 
 ![Proyectos](imagenes/proyectos.png)
 
-Contacto:
+#### Contacto:
 
 ![Contacto](imagenes/contacto.png)
 
