@@ -12,7 +12,7 @@ El propósito de la página web es mostrr el portafolio de los proyectos además
 
 #### Presentación:
 
-![Primera parte de la página web](imagenes/presentación.png)
+![Presentación](imagenes/presentación.png)
 
 #### Experiencia:
 
@@ -20,10 +20,11 @@ El propósito de la página web es mostrr el portafolio de los proyectos además
 
 #### Proyectos:
 
+![Proyectos](imagenes/proyectos.png)
 
 #### Contacto:
 
-![Proyectos](imagenes/contacto.png)
+![Contacto](imagenes/contacto.png)
 
 ## Tecnologías
 
