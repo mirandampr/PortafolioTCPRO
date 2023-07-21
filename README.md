@@ -20,7 +20,6 @@ El propósito de la página web es mostrr el portafolio de los proyectos además
 
 #### Proyectos:
 
-![Proyectos](imagenes/proyectos.png)
 
 #### Contacto:
 
