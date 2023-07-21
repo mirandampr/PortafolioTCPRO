@@ -1,32 +1,30 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Portafolio Adaptable (Responsive) con Bootstrap 5 elaborado por MIRANDA PARTIDA
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
+En este proyecto se puso a prueba loaprendido duranto el bootcamp Tecnolochicas PRO. Es una página web adaptable a dispositivos de distintos tamaños.
 
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
-
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+El propósito de la página web es mostrr el portafolio de los proyectos además de presentar mis experiencias, motivación y redes de contacto. Actúa a modo de presentación profesional de mi persona.
 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](imagenes/pantallaprincipal.png)
+
+Presentación:
+
+![Primera parte de la página web](imagenes/presentación.png)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](imagenes/experiencia.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
+![Proyectos](imagenes/proyectos.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](imagenes/contacto.png)
 
 ## Tecnologías
 
