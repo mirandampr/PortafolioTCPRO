@@ -24,7 +24,7 @@ El propósito de la página web es mostrr el portafolio de los proyectos además
 
 #### Contacto:
 
-![Contacto](imagenes/contacto.png)
+
 
 ## Tecnologías
 
